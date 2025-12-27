@@ -18,6 +18,10 @@ A lightweight, educational hash cracking tool built in Python for password secur
 
 This tool serves as both a practical security utility and an educational resource for understanding hash functions, password security, and offensive security tooling development.
 
+## Presentation
+
+Check out the presentation [here](https://github.com/pdoffl/Dehasher/blob/main/presentation/Dehasher-Presentation.pdf) to understand more about the Dehasher project. 
+
 ## Features
 
 - **Password Strength Assessment**: Test hashes against known weak password databases to evaluate organizational password policies and identify vulnerable credentials requiring rotation.
